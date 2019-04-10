@@ -27,7 +27,7 @@ public class Module2 extends BaseClass
 		
 		Pg104_EmergencyContacts emergencycontacts = new Pg104_EmergencyContacts(driver);
 		emergencycontacts.clickOnAdd();
-		emergencycontacts.setName("Avinash");
+		emergencycontacts.setName("Mahender");
 		emergencycontacts.setRelationship("Child");
 		emergencycontacts.setHomeTelephone("9863247966");
 		emergencycontacts.setMobile("9863201188");
