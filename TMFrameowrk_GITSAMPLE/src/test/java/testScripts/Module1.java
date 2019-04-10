@@ -27,7 +27,7 @@ public class Module1 extends BaseClass
 		
 		Pg103_ContactDetailsPage contactdetails = new Pg103_ContactDetailsPage(driver);
 		contactdetails.clickOnEdit();
-		contactdetails.setAddressStreet1("Nandini Residencncy");
+		contactdetails.setAddressStreet1("balaji Residencncy");
 		contactdetails.setAddressStreet2("KPHB");
 		contactdetails.setContactCity("Hyderabad");
 		contactdetails.setStateOrProvince("Telangana");
